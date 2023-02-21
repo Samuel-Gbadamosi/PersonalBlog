@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.choice p{
+    color:#495057;
+}
+
+.choice button{
+    background-color: #FA7A57;
+    border: 2px solid #FA7A57;
+    font-size: 15px;
+}
+header{
+    height:80px;
+    background-color: red;
+    box-shadow:0 6px 15px rgb(206 212 218 / 30%);
+
+}
+
+.fixed-top{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.img1{
+    height: 80px;
+}
+
+.prog{
+    color: rgba(0,0,0,.5);
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.grt{
+    height: 600px;
+    padding-top: 80px;
+}
+
+.lefty{
+    /* height: 500px; */
+    background-color: #FFFFFF;
+    /* padding: 200px; */
+    position: relative;
+    top: 250px;
+    padding-left: 48px;
+}
+
+.prog li{
+    padding-top: 6px;
+    font-weight: 700;
+    color: white;
+}
+
+.mby{
+    background-color: #ff7a57;
+    height: 35px;
+    width: 100px;
+    border-radius: 30px;
+    font-size: 10px;
+    color: white;
+    border: 1px solid #ff7a57;
+}
+
+.lefty p{
+    color: grey;
+    font-weight: 900;
+}
+
+.lefty h3{
+    font-size: 30px;
+    font-weight: 900;
+    color: #495057;
+    width: 300px;
+}
+
+.lefty h5{
+    color: grey;
+}
+
+.hmi{
+    height: 60px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 30px;
+}
+
+
+.boxes li i{
+    font-size: 30px;
+    color: brown;
+}
+
+.beard{
+    height: 500px;
+    background-color: #e0dada;
+}
+
+.fry{
+    height: 90px;
+    width: 50%;
+    position: relative;
+    background-color: white;
+    border-radius: 40px;
+    border: 2px solid #d9d8d8;
+    bottom: 58px;
+}
+
+.segmen{
+    height: 200px;
+    background-color: blue;
+}
+
+.des{
+    height: 240px;
+    background-color: #FA7A57;
+}
+
+.green{
+    height: 200px;
+    width: 200px;
+    background-color: white;
+    border: 1px solid #ff7a57;
+    font-size: 20px;
+    color: #FA7A57;
+    border-radius: 27px;
+}
+
+.grace{
+    height: 350px;
+    background-color: #FFFFFF;
+}
+
+.mini{
+    height: 435px;
+    background-color:white;
+    /* color: white; */
+}
+
+.red{
+    height: 80px;
+    background-color: #FA7A57;
+    font-size: 12px;
+}
+ 
+.kitkat{
+    color: #FA7A57;
+    font-size: 30px;
+    padding-right: 9px;
+
+}
+
+.jack{
+    color: #495057;
+}
+
+
+.mini ul {
+    font-size: 11px;
+}
+
+
+/* .grt{
+    background-color: orange;
+    height: 70px;
+
+} */
+
+
+.fakeft{
+    height: 400px;
+     background-color: white;
+}
+
+.james li {
+    color: #FA7A57;
+    font-size: 20px;
+}  
+
+.briope{
+    position: relative;
+    top: 80px;
+
+}
